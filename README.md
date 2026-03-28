@@ -6,7 +6,7 @@
 ## About Me
 I'm a postgraduate student specialising in Artificial Intelligence and 
 Machine Learning, currently upskilling every single day toward a career 
-in Data and AI Engineering. I believe in learning by building — every 
+in Data and AI Engineering. I believe in learning by building every 
 concept I study goes straight into code.
 
 - Bachelor of Electronics and Communication Engineering - KL University, India (2025)
