@@ -37,11 +37,11 @@ concept I study goes straight into code.
 
 ## Currently Learning
 - Python fundamentals
-- SQL — queries, joins, window functions
-- Mathematics for ML — linear algebra, probability, statistics
-- Classical ML — scikit-learn pipelines
-- Deep Learning — CNNs, RNNs, Transformers
-- Cloud deployment — AWS / GCP
+- SQL - queries, joins, window functions
+- Mathematics for ML - linear algebra, probability, statistics
+- Classical ML - scikit-learn pipelines
+- Deep Learning - CNNs, RNNs, Transformers
+- Cloud deployment - AWS / GCP
 
 ---
 
