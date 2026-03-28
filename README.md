@@ -6,10 +6,11 @@
 ## About Me
 I'm a postgraduate student specialising in Artificial Intelligence and 
 Machine Learning, currently upskilling every single day toward a career 
-in Data and AI Engineering. I believe in learning by building every 
+in Data and AI Engineering. I believe in learning by building — every 
 concept I study goes straight into code.
 
-- Master of AI/ML — University of Adelaide (Graduating July 2027)
+- Bachelor of Electronics and Communication Engineering - KL University, India (2025)
+- Master of AI/ML - University of Adelaide, Australia (Graduating July 2027)
 - Adelaide, Australia
 - Actively seeking graduate roles in Data, AI, and ML Engineering
 - Motto: Whatever it takes
