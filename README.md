@@ -1,4 +1,4 @@
-# Hi, I'm Anand 👋
+# Hi, I'm Anand
 ### Aspiring Data & AI Engineer · Masters in AI/ML · University of Adelaide
 
 ---
@@ -9,10 +9,10 @@ Machine Learning, currently upskilling every single day toward a career
 in Data and AI Engineering. I believe in learning by building every 
 concept I study goes straight into code.
 
-Master of AI/ML - University of Adelaide (Graduating July 2027)
-Adelaide, Australia
-Actively seeking graduate roles in Data, AI, and ML Engineering
-Motto: Whatever it takes
+- Master of AI/ML — University of Adelaide (Graduating July 2027)
+- Adelaide, Australia
+- Actively seeking graduate roles in Data, AI, and ML Engineering
+- Motto: Whatever it takes
 
 ---
 
@@ -36,12 +36,12 @@ Motto: Whatever it takes
 ---
 
 ## Currently Learning
-- ✅ Python fundamentals
-- ✅ SQL — queries, joins, window functions
-- 🔄 Mathematics for ML — linear algebra, probability, statistics
-- 🔄 Classical ML — scikit-learn pipelines
-- ⏳ Deep Learning — CNNs, RNNs, Transformers
-- ⏳ Cloud deployment — AWS / GCP
+- Python fundamentals
+- SQL — queries, joins, window functions
+- Mathematics for ML — linear algebra, probability, statistics
+- Classical ML — scikit-learn pipelines
+- Deep Learning — CNNs, RNNs, Transformers
+- Cloud deployment — AWS / GCP
 
 ---
 
