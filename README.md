@@ -1,50 +1,28 @@
 # Hi, I'm Anand
-### Aspiring Data & AI Engineer · Masters in AI/ML · University of Adelaide
 
----
+Master of AI and Machine Learning student at Adelaide University, finishing in July 2027. Before this I did a BTech in Electronics and Communication Engineering at KL University and a research internship at NRSC, ISRO.
 
-## About Me
-I'm a postgraduate student specialising in Artificial Intelligence and 
-Machine Learning, currently upskilling every single day toward a career 
-in Data and AI Engineering. I believe in learning by building every 
-concept I study goes straight into code.
+I learn best by building. Most of what I study ends up as a project here.
 
-- Bachelor of Electronics and Communication Engineering - KL University, India (2025)
-- Master of AI/ML - University of Adelaide, Australia (Graduating July 2027)
-- Adelaide, Australia
-- Actively seeking graduate roles in Data, AI, and ML Engineering
-- Motto: Whatever it takes
+Looking for graduate roles in data, AI and ML.
 
----
+## Projects
 
-## What I'm Building
-| Project | Description | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| SkinSense | CNN-based skin cancer detection system | PyTorch · ResNet50 · HAM10000 |
-| ML Pipeline | End-to-end classification & regression | scikit-learn · pandas · NumPy |
-| NLP Project | LLM fine-tuning & text classification | HuggingFace · Transformers |
-| Data Dashboard | SQL + Python analytics on real datasets | Python · SQL · Matplotlib |
+| [ransomware-rag](https://github.com/Anand-Iragavarapu/ransomware-rag) | Q&A over 12 security standards, comparing three retrieval methods with RAGAS | Python, ChromaDB, BM25, Llama 3.1 |
+| [skinsense](https://github.com/Anand-Iragavarapu/skinsense) | Skin lesion classifier on a very imbalanced dataset, judged with MCC instead of accuracy | PyTorch, ResNet50 |
+| [neural-nets-from-scratch](https://github.com/Anand-Iragavarapu/neural-nets-from-scratch) | MLP and CNN written in NumPy with hand-coded backpropagation | Python, NumPy |
+| [llm-bias-trustworthiness-phishing](https://github.com/Anand-Iragavarapu/llm-bias-trustworthiness-phishing) | Testing LLM bias and trustworthiness for users at risk of phishing | Python, DecodingTrust |
 
----
+## Tools
 
-## Tech Stack
-**Languages:** Python · SQL  
-**ML/AI:** PyTorch · scikit-learn · HuggingFace · TensorFlow  
-**Data:** pandas · NumPy · Matplotlib · Seaborn  
-**Cloud:** AWS (learning) · Google Colab  
-**Tools:** Git · GitHub · Jupyter · VS Code  
+**Languages:** Python, R, SQL, C  
+**ML:** PyTorch, scikit-learn, Hugging Face, TensorFlow  
+**Data:** pandas, NumPy, Matplotlib, Seaborn  
+**Other:** Git, Jupyter, Google Colab, VS Code  
+**Learning now:** AWS, GIS
 
----
+## Contact
 
-## Currently Learning
-- Python fundamentals
-- SQL - queries, joins, window functions
-- Mathematics for ML - linear algebra, probability, statistics
-- Classical ML - scikit-learn pipelines
-- Deep Learning - CNNs, RNNs, Transformers
-- Cloud deployment - AWS / GCP
-
----
-
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iragavarapu-sree-venkata-anjananand-9b2048317/)
+[LinkedIn](https://www.linkedin.com/in/sree-venkata-anjananand-iragavarapu-9b2048317/)
